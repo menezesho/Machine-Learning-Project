@@ -1,51 +1,101 @@
-Nome,Idade,Marca,Comida
-Laura Ferreira,32,Nissan,Lasanha
-Ana Lima,37,Chevrolet,Sushi
-Pedro Ferreira,48,Honda,Frango
-Laura Costa,49,Toyota,Hambúrguer
-Rafael Santos,40,Nissan,Pizza
-Camila Santos,34,Mercedes,Churrasco
-Ana Souza,56,Volkswagen,Frango
-Rafael Gomes,20,Honda,Sorvete
-Pedro Lima,18,BMW,Lasanha
-João Lima,18,Nissan,Tacos
-Gabriel Gomes,27,Honda,Sanduíche
-Pedro Pereira,23,Mercedes,Tacos
-João Lima,34,Honda,Sanduíche
-Gabriel Ferreira,37,Chevrolet,Sorvete
-Gabriel Silva,32,Volkswagen,Salada
-Camila Pereira,41,Toyota,Sanduíche
-Pedro Ferreira,24,Honda,Lasanha
-João Costa,24,Toyota,Pizza
-Gabriel Lima,27,Hyundai,Hambúrguer
-Rafael Pereira,29,Volkswagen,Lasanha
-Gabriel Santos,51,Ford,Tacos
-Laura Pereira,53,Ford,Salada
-Mariana Santos,19,Mercedes,Tacos
-Camila Silva,37,Hyundai,Hambúrguer
-Ana Silva,57,Hyundai,Sushi
-João Souza,35,Chevrolet,Sorvete
-Pedro Gomes,28,Ford,Sorvete
-Ana Souza,37,Hyundai,Sanduíche
-Maria Gomes,52,Nissan,Sushi
-Maria Almeida,60,Ford,Hambúrguer
-João Gomes,20,BMW,Churrasco
-João Silva,46,Mercedes,Frango
-Lucas Santos,36,Chevrolet,Frango
-Mariana Lima,27,Chevrolet,Hambúrguer
-Gabriel Pereira,45,Audi,Frango
-Camila Santos,22,Honda,Lasanha
-Mariana Lima,32,Nissan,Lasanha
-Mariana Santos,44,Volkswagen,Tacos
-Rafael Gomes,59,Audi,Lasanha
-Pedro Almeida,51,Mercedes,Hambúrguer
-Laura Silva,47,Honda,Lasanha
-Ana Lima,37,Nissan,Lasanha
-Camila Costa,41,BMW,Pizza
-Rafael Santos,46,Chevrolet,Churrasco
-Laura Lima,26,Honda,Hambúrguer
-Maria Oliveira,53,Ford,Salada
-Maria Pereira,37,Ford,Lasanha
-Laura Pereira,26,Toyota,Tacos
-Lucas Gomes,56,Hyundai,Churrasco
-Laura Costa,20,Toyota,Salada
+Idade,Renda,Gastos Mensais,Segmento
+56,9392,3311,alto
+46,4104,1869,médio
+32,8215,2486,médio
+25,3454,646,baixo
+38,9996,3719,alto
+56,3731,3411,alto
+36,9154,2234,médio
+40,6056,2343,médio
+28,9110,988,baixo
+28,4840,3476,alto
+41,2028,2459,médio
+53,8385,2885,médio
+57,1502,3419,alto
+41,7910,2302,médio
+20,7938,4561,alto
+39,5488,3869,alto
+19,1206,762,baixo
+41,6134,1123,baixo
+47,6977,1516,médio
+55,8721,4143,alto
+19,8035,2549,médio
+38,2484,4223,alto
+50,8858,3608,alto
+29,1863,4590,alto
+39,3790,2556,médio
+42,8408,3670,alto
+44,9755,2182,médio
+59,6116,2755,médio
+45,7019,1654,médio
+33,2757,4999,alto
+32,8574,3691,alto
+20,7374,2196,médio
+54,7892,4491,alto
+24,2678,2148,médio
+38,4242,1945,médio
+26,5636,4699,alto
+56,2059,4423,alto
+35,7668,753,baixo
+21,4157,3683,alto
+42,6915,3057,alto
+31,3693,598,baixo
+26,4627,2700,médio
+43,6450,3461,alto
+19,2663,4933,alto
+37,6592,4277,alto
+45,8392,3369,alto
+24,2306,3734,alto
+25,7776,4291,alto
+52,6864,1456,baixo
+31,8526,4567,alto
+34,9901,660,baixo
+53,6575,4993,alto
+57,6530,1800,médio
+21,5413,4487,alto
+19,4748,2027,médio
+23,1663,1718,médio
+59,2998,4996,alto
+21,8994,3604,alto
+46,2495,3235,alto
+35,4304,1454,baixo
+43,4763,3946,alto
+51,6232,1545,médio
+27,2853,2193,médio
+53,7585,3936,alto
+31,2291,1062,baixo
+48,4581,2985,médio
+32,8554,3854,alto
+25,8280,725,baixo
+31,2636,1459,baixo
+40,4696,3567,alto
+57,1698,1315,baixo
+38,5737,3620,alto
+33,1854,516,baixo
+35,9164,1743,médio
+41,6855,2705,médio
+43,8392,3024,alto
+42,7528,1569,médio
+58,6249,3944,alto
+46,6172,3065,alto
+32,2707,1560,médio
+18,6791,2827,médio
+42,6535,3920,alto
+24,5931,801,baixo
+26,4510,4776,alto
+41,1202,1106,baixo
+18,5218,3670,alto
+25,9958,1199,baixo
+41,5389,1639,médio
+28,3327,690,baixo
+34,9004,2800,médio
+25,3931,1480,baixo
+52,8777,3475,alto
+52,1197,1684,médio
+50,8125,3827,alto
+22,2930,3894,alto
+59,7287,627,baixo
+56,9800,2565,médio
+58,5282,2316,médio
+45,3511,1069,baixo
+24,1659,2395,médio
