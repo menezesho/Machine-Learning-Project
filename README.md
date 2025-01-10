@@ -25,8 +25,11 @@ Este script realiza uma análise não supervisionada utilizando o algoritmo K-Me
 5. Adiciona os rótulos de cluster ao DataFrame original.
 6. Analisa os resultados e visualiza a distribuição dos clusters.
 
+## Disciplina
+Mineração de Dados
+
 ## Discente
 Henrique Menezes Oliveira
 
 ## Professor
-Reni Aparecido Norberto Pinto
+Rení Aparecido Norberto Pinto
